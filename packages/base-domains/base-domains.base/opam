@@ -4,7 +4,7 @@ description: """
 Domains-based parallelism distributed with the Multicore OCaml compiler"
 """
 depends: [
-  "ocaml" {>="4.06.1"}
+  "ocaml" {>="4.02.2"}
   "ocaml-variants" {
     = "4.12.0+domains+effects" |
     = "4.12.0+domains" |
