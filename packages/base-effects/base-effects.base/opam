@@ -4,7 +4,7 @@ description: """
 Effects-based variant distributed with the Multicore OCaml compiler"
 """
 depends: [
- "ocaml" {>= "4.12.0"}
+ "ocaml" {>= "4.02.2"}
  "ocaml-variants" {
     = "4.12.0+domains+effects" |
     = "4.10.0+multicore" |
